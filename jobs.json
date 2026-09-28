@@ -1,5 +1,90 @@
 [
   {
+    "dedupeKey": "job:2d198e04-4820-4958-9643-ab98d0ed0133",
+    "companyId": "company_62e8643d84ab56a7ede5a68fb7b6d73f",
+    "company": "Current",
+    "companyDomain": "current.com",
+    "role": "Staff Software Engineer, Machine Learning",
+    "applyUrl": "https://go.landed.jobs/j0vf54w",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "New York City, NY"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "staff",
+    "skills": [
+      "Python",
+      "SQL",
+      "Spark",
+      "distributed training"
+    ],
+    "posted": "2026-09-28T13:48:57.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "$1.5B valuation",
+      "Series E"
+    ]
+  },
+  {
+    "dedupeKey": "job:4e15e7e1-15ad-412b-8ef7-46e23a74a428",
+    "companyId": "company_00675aa8683ac27daf26c77cccaeddf6",
+    "company": "HubSpot",
+    "companyDomain": "hubspot.com",
+    "role": "Principal Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/4mmknoq",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "Cambridge, MA",
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "fine-tuning",
+      "HubSpot",
+      "LLM",
+      "model serving"
+    ],
+    "posted": "2026-09-28T12:39:35.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$12.2B valuation"
+    ]
+  },
+  {
+    "dedupeKey": "job:ca902a97-ea43-4792-96eb-c25383fa3b21",
+    "companyId": "company_00675aa8683ac27daf26c77cccaeddf6",
+    "company": "HubSpot",
+    "companyDomain": "hubspot.com",
+    "role": "Principal Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/n6x7c71",
+    "location": "🌐 Remote (US)",
+    "locations": [
+      "US"
+    ],
+    "remote": "remote",
+    "region": "remote",
+    "family": "ai_machine_learning",
+    "level": "principal",
+    "skills": [
+      "fine-tuning",
+      "HubSpot",
+      "LLM",
+      "model serving"
+    ],
+    "posted": "2026-09-28T12:38:33.000Z",
+    "companyTier": "A",
+    "companyBadges": [
+      "TrueUp Remote 200",
+      "$12.2B valuation"
+    ]
+  },
+  {
     "dedupeKey": "job:7df05227-e262-423f-80d7-cb8075ac2cec",
     "companyId": "company_5f3ed25a8fbe17e0ec38fb3fc85bf8e5",
     "company": "Waymo",
@@ -8807,105 +8892,6 @@
     "companyTier": "B",
     "companyBadges": [
       "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:cb0297e3-eb16-496f-97b9-cc204e3d3f85",
-    "companyId": "company_7505a4e1b0157a83a8154a701374352c",
-    "company": "Q2 Holdings",
-    "companyDomain": "q2.com",
-    "role": "Machine Learning Engineer",
-    "applyUrl": "https://go.landed.jobs/otzgupa",
-    "location": "Cary, NC +2",
-    "locations": [
-      "Cary, NC",
-      "Austin, TX",
-      "Charlotte, NC"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "",
-    "skills": [
-      "PyTorch",
-      "TensorFlow",
-      "distributed systems"
-    ],
-    "posted": "2026-09-03T00:00:00.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$3.8B valuation",
-      "Public"
-    ]
-  },
-  {
-    "dedupeKey": "job:ca564bda-90b7-446d-98e2-4eeefd56f826",
-    "companyId": "company_c150073a17d4d4fa212910dbb6b17128",
-    "company": "Socure",
-    "companyDomain": "socure.com",
-    "role": "Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring",
-    "applyUrl": "https://go.landed.jobs/6iwyj0b",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "San Francisco, CA",
-      "Seattle, WA",
-      "New York City, NY",
-      "Miami, FL"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "data_science_analytics",
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Scala",
-      "SQL",
-      "Spark",
-      "scikit-learn",
-      "XGBoost",
-      "TensorFlow",
-      "PyTorch",
-      "AWS",
-      "EMR",
-      "S3"
-    ],
-    "posted": "2026-09-02T20:22:19.834Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "$4.5B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:16f328d1-e2e0-4a16-88c4-e7e5fcc4bd6c",
-    "companyId": "company_2303af1cf84a5b1dbea550d72f6b3c78",
-    "company": "Attain (YC)",
-    "companyDomain": "joinattain.com",
-    "role": "Senior Machine Learning Engineer",
-    "applyUrl": "https://go.landed.jobs/nynbets",
-    "location": "Chicago, IL",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "remote": "hybrid",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "CI/CD",
-      "observability",
-      "gRPC",
-      "microservices",
-      "model serving",
-      "Airflow",
-      "Kubernetes",
-      "Docker",
-      "Terraform"
-    ],
-    "posted": "2026-09-02T14:58:28.000Z",
-    "companyTier": "B",
-    "companyBadges": [
-      "YC W22",
-      "Seed"
     ]
   }
 ]
