@@ -3252,67 +3252,6 @@
     ]
   },
   {
-    "dedupeKey": "job:c099a175-5e05-4210-bab3-d28a3ebf6418",
-    "companyId": "company_420fca1f6f86287bc1e902ad8f9c8773",
-    "company": "TRM Labs",
-    "companyDomain": "trmlabs.com",
-    "role": "Senior Machine Learning Engineer, Knowledge Layer",
-    "applyUrl": "https://go.landed.jobs/86zqi22",
-    "location": "🌐 Remote (US)",
-    "locations": [
-      "US"
-    ],
-    "remote": "remote",
-    "region": "remote",
-    "family": "ai_machine_learning",
-    "level": "senior",
-    "skills": [
-      "Python"
-    ],
-    "posted": "2026-10-27T16:04:17.974Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "YC S19",
-      "$2B valuation"
-    ]
-  },
-  {
-    "dedupeKey": "job:f3b31048-fd7e-407b-bd5f-4ec2bfae9fcd",
-    "companyId": "company_9f62e15b04dbf6e6b51ff32857c48294",
-    "company": "Lila Sciences",
-    "companyDomain": "lila.ai",
-    "role": "Co-Op, AI Nucleic Acid Design",
-    "applyUrl": "https://go.landed.jobs/dkilldp",
-    "location": "San Francisco, CA",
-    "locations": [
-      "San Francisco, CA"
-    ],
-    "remote": "",
-    "region": "us",
-    "family": "ai_machine_learning",
-    "level": "intern",
-    "skills": [
-      "Python",
-      "PyTorch",
-      "JAX",
-      "biological sequence data (DNA or RNA)",
-      "sequence-to-function models",
-      "genomic language models",
-      "generative modeling",
-      "active learning",
-      "Bayesian optimization",
-      "large language or reasoning models",
-      "AI agents",
-      "LLM-based tools"
-    ],
-    "posted": "2026-10-27T13:32:30.000Z",
-    "companyTier": "A",
-    "companyBadges": [
-      "TrueUp Hot 200",
-      "$1.3B valuation"
-    ]
-  },
-  {
     "dedupeKey": "job:aa6eb275-7d96-4998-b0cc-0e4a14cb1a07",
     "companyId": "company_d54bb31ab341b23189ea5a01e1a89022",
     "company": "SambaNova",
@@ -8546,5 +8485,61 @@
     "companyBadges": [
       "Seed"
     ]
+  },
+  {
+    "dedupeKey": "job:2fe58ebb-9346-41d8-9b94-e89928a21029",
+    "companyId": "company_fdd4b442ea27942a2dec690d98ac05b0",
+    "company": "Persona AI Inc",
+    "companyDomain": "persona.ai",
+    "role": "Robotics Machine Learning Engineer",
+    "applyUrl": "https://go.landed.jobs/7odqwrk",
+    "location": "Houston, TX",
+    "locations": [
+      "Houston, TX"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "mid",
+    "skills": [
+      "AWS",
+      "Azure",
+      "PyTorch",
+      "TensorFlow",
+      "Python",
+      "Rust",
+      "C++",
+      "computer vision",
+      "Docker",
+      "CI/CD"
+    ],
+    "posted": "2026-11-09T21:13:46.979Z",
+    "companyTier": "U",
+    "companyBadges": []
+  },
+  {
+    "dedupeKey": "job:93d46345-5bf2-4592-9a7f-cb5f4af63c26",
+    "companyId": "company_3fa7b1a2527b326a48851c9e70531b1c",
+    "company": "Riot Games",
+    "companyDomain": "riotgames.com",
+    "role": "Director, Machine Learning Engineering - AI Foundations",
+    "applyUrl": "https://go.landed.jobs/12cms9d",
+    "location": "Los Angeles, CA",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "remote": "",
+    "region": "us",
+    "family": "ai_machine_learning",
+    "level": "director",
+    "skills": [
+      "LLM",
+      "agentic systems",
+      "computer vision",
+      "observability"
+    ],
+    "posted": "2026-11-09T21:08:30.000Z",
+    "companyTier": "U",
+    "companyBadges": []
   }
 ]
